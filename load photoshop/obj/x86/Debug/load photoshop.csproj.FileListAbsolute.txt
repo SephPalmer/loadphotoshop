@@ -1,0 +1,10 @@
+c:\Users\JPalmer\Documents\Visual Studio 2010\Projects\load photoshop\load photoshop\bin\Debug\load photoshop.exe
+c:\Users\JPalmer\Documents\Visual Studio 2010\Projects\load photoshop\load photoshop\bin\Debug\load photoshop.pdb
+c:\Users\JPalmer\Documents\Visual Studio 2010\Projects\load photoshop\load photoshop\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Users\JPalmer\Documents\Visual Studio 2010\Projects\load photoshop\load photoshop\obj\x86\Debug\load photoshop.exe
+c:\Users\JPalmer\Documents\Visual Studio 2010\Projects\load photoshop\load photoshop\obj\x86\Debug\load photoshop.pdb
+C:\Users\Admin\Dropbox\files\load photoshop\load photoshop\obj\x86\Debug\load photoshop.exe
+C:\Users\Admin\Dropbox\files\load photoshop\load photoshop\obj\x86\Debug\load photoshop.pdb
+C:\Users\Admin\Dropbox\files\load photoshop\load photoshop\bin\Debug\load photoshop.exe
+C:\Users\Admin\Dropbox\files\load photoshop\load photoshop\bin\Debug\load photoshop.pdb
+C:\Users\Admin\Dropbox\files\load photoshop\load photoshop\obj\x86\Debug\ResolveAssemblyReference.cache
